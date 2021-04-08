@@ -1,10 +1,15 @@
 /* CUSTOM CLASSES */
-.def-font {
+.def-font-left-panel {
   font-family: Verdana, sans-serif;
-  text-align: center;
+  text-align: left;
 }
 
-
+.topics-panel {
+  border-style: solid;
+  border-radius: 3px;
+  border-right: 0px;
+  padding-right: 0%;
+}
 
 /* BASE CLASSES */
 nav {
